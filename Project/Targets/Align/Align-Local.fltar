@@ -3,7 +3,7 @@
   Version="2"
   Comment="MadCap HTML5"
   Type="WebHelp2"
-  DefaultUrl="/Content/Align/Introduction/Home.htm"
+  DefaultUrl="/Content/Lingo/Align/Introduction/Home.htm"
   Skin="/Project/Skins/Align/Align-Side-Navigation.flskn"
   MasterToc="/Project/TOCs/Align/Align-Online.fltoc"
   MasterPage="/Content/Resources/TemplatePages/Shared/All/Main.flmsp"

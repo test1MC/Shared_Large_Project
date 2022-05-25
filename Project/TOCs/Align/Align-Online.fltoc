@@ -7,57 +7,57 @@
     VolumeNumberReset="same"
     SectionNumberReset="continue"
     ChapterNumberReset="continue"
-    Link="/Content/Align/Alignment/Alignment.htm">
+    Link="/Content/Lingo/Align/Alignment/Alignment.htm">
     <TocEntry
       Title="Opening Projects"
-      Link="/Content/Align/Projects/Opening-Lingo-Projects.htm" />
+      Link="/Content/Lingo/Align/Projects/Opening-Lingo-Projects.htm" />
     <TocEntry
       Title="Creating Projects"
-      Link="/Content/Align/Projects/Creating-Alignment-Projects.htm" />
+      Link="/Content/Lingo/Align/Projects/Creating-Alignment-Projects.htm" />
     <TocEntry
       Title="Aligning Files"
-      Link="/Content/Align/Alignment/Aligning-Files.htm" />
+      Link="/Content/Lingo/Align/Alignment/Aligning-Files.htm" />
     <TocEntry
       Title="Aligning Segments"
-      Link="/Content/Align/Alignment/Aligning-Segments.htm" />
+      Link="/Content/Lingo/Align/Alignment/Aligning-Segments.htm" />
   </TocEntry>
   <TocEntry
     Title="Segmentation Rules"
-    Link="/Content/Align/Segmentation-Split-Join/Segmentation-Rules.htm" />
+    Link="/Content/Lingo/Align/Segmentation-Split-Join/Segmentation-Rules.htm" />
   <TocEntry
     Title="Translation Memory"
-    Link="/Content/Align/Translation-Memory/Choosing-TM-Database.htm" />
+    Link="/Content/Lingo/Align/Translation-Memory/Choosing-TM-Database.htm" />
   <TocEntry
     Title="Find in Files"
-    Link="/Content/Align/Find-Replace/Find-Files.htm">
+    Link="/Content/Lingo/Align/Find-Replace/Find-Files.htm">
     <TocEntry
       Title="Quick Find"
-      Link="/Content/Align/Find-Replace/Quick-Find-Widget.htm" />
+      Link="/Content/Lingo/Align/Find-Replace/Quick-Find-Widget.htm" />
   </TocEntry>
   <TocEntry
     Title="Shortcuts"
-    Link="/Content/Align/Shortcuts/Keyboard-Shortcuts.htm" />
+    Link="/Content/Lingo/Align/Shortcuts/Keyboard-Shortcuts.htm" />
   <TocEntry
     Title="Interface"
-    Link="/Content/Align/Interface/Touring-Workspace/Touring-Workspace.htm">
+    Link="/Content/Lingo/Align/Interface/Touring-Workspace/Touring-Workspace.htm">
     <TocEntry
       Title="Start Page"
-      Link="/Content/Align/Interface/Touring-Workspace/Start-Page.htm" />
+      Link="/Content/Lingo/Align/Interface/Touring-Workspace/Start-Page.htm" />
     <TocEntry
       Title="Customizing the Workspace"
-      Link="/Content/Align/Interface/Touring-Workspace/Customizing-Workspace.htm">
+      Link="/Content/Lingo/Align/Interface/Touring-Workspace/Customizing-Workspace.htm">
       <TocEntry
         Title="Color Theme for Interface"
-        Link="/Content/Align/Interface/Touring-Workspace/Selecting-Interface-Color-Theme.htm" />
+        Link="/Content/Lingo/Align/Interface/Touring-Workspace/Selecting-Interface-Color-Theme.htm" />
       <TocEntry
         Title="Minimizing Ribbons"
-        Link="/Content/Align/Interface/Ribbons-Toolbars-Menus/Minimizing-Ribbons.htm" />
+        Link="/Content/Lingo/Align/Interface/Ribbons-Toolbars-Menus/Minimizing-Ribbons.htm" />
       <TocEntry
         Title="Window Layouts"
-        Link="/Content/Align/Interface/Touring-Workspace/Window-Layouts.htm" />
+        Link="/Content/Lingo/Align/Interface/Touring-Workspace/Window-Layouts.htm" />
     </TocEntry>
     <TocEntry
       Title="Ribbons"
-      Link="/Content/Align/Interface/Ribbons-Toolbars-Menus/Ribbons.htm" />
+      Link="/Content/Lingo/Align/Interface/Ribbons-Toolbars-Menus/Ribbons.htm" />
   </TocEntry>
 </CatapultToc>

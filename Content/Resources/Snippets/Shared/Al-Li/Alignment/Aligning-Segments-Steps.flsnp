@@ -76,7 +76,7 @@
                     </table>
                     <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Alignment-Guide" />
                     <div class="note">
-                        <p class="Note-Text" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #242729;&quot; class=&quot;mcFormatColor&quot;&gt;Note &lt;/span&gt;&lt;/b&gt;">Rather than using split and join, you can alternatively use segmentation rules.<MadCap:conditionalText MadCap:conditions="Products.Lingo"> See <MadCap:xref href="../../../../../Lingo/Segmentation-Split-Join/Segmentation-Rules.htm">Using Segmentation Rules</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Align"> See <MadCap:xref href="../../../../../Align/Segmentation-Split-Join/Segmentation-Rules.htm">Segmentation Rules</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p class="Note-Text" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #242729;&quot; class=&quot;mcFormatColor&quot;&gt;Note &lt;/span&gt;&lt;/b&gt;">Rather than using split and join, you can alternatively use segmentation rules.<MadCap:conditionalText MadCap:conditions="Products.Lingo"> See <MadCap:xref href="../../../../../Lingo/Segmentation-Split-Join/Segmentation-Rules.htm">Using Segmentation Rules</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Align"> See <MadCap:xref href="../../../../../Lingo/Align/Segmentation-Split-Join/Segmentation-Rules.htm">Segmentation Rules</MadCap:xref>.</MadCap:conditionalText></p>
                     </div>
                 </div>
             </li>
